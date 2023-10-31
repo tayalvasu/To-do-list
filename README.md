@@ -21,9 +21,6 @@ Windows:
 ```bash
 git clone https://github.com/tayalvasu/to-do-list.git
 ```
-## License
-
-This project is **free to use** and does not contains any license.
 
 ## Getting Started
 
@@ -34,6 +31,10 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## License
+
+This project is **free to use** and does not contains any license.
 
 # Live Link:
 https://vasu-to-do.netlify.app/
